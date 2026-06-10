@@ -2,6 +2,8 @@
 title: Photo Storage Saver — Support
 ---
 
+![Photo Storage Saver](assets/banner.png)
+
 # Photo Storage Saver — Support
 
 Photo Storage Saver is a macOS app that finds duplicate and oversized photos and
