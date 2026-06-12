@@ -6,14 +6,17 @@ title: Photo Storage Saver — Support
 
 # Photo Storage Saver — Support
 
-Photo Storage Saver is a macOS app that finds duplicate and oversized photos and
-videos in your library and helps you reclaim storage — entirely on your device.
+Photo Storage Saver is an app for **iPhone, iPad, and Mac** that finds
+duplicate and oversized photos and videos in your library and helps you
+reclaim storage — entirely on your device. One purchase covers every
+platform. Available now on the Mac App Store; the iPhone & iPad version
+is on its way.
 
 ## Get help
 
 Email **joshuateller@icloud.com** with any question, bug report, or feature
-request. Please include your macOS version and what you were doing when the
-issue occurred.
+request. Please include your device, OS version, and what you were doing when
+the issue occurred.
 
 ## Common questions
 
@@ -27,11 +30,13 @@ smaller. Some clips are already efficiently encoded — those are reported as
 "already optimal" and left untouched.
 
 **Does the app upload my photos anywhere?**
-No. Analysis (duplicate detection, compression) runs entirely on your Mac. The
-app makes no network calls with your data. See the [privacy policy](privacy.html).
+No. Analysis (duplicate detection, compression) runs entirely on your device.
+The app makes no network calls with your data. See the
+[privacy policy](privacy.html).
 
 **How do I cancel my subscription?**
-System Settings → your Apple ID → Subscriptions → Photo Storage Saver Pro →
+On iPhone/iPad: Settings → your Apple ID → Subscriptions. On Mac: System
+Settings → your Apple ID → Subscriptions. Choose Photo Storage Saver Pro →
 Cancel. Access continues to the end of the paid period.
 
 ## Privacy

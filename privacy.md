@@ -4,9 +4,10 @@ title: Photo Storage Saver — Privacy Policy
 
 # Privacy Policy — Photo Storage Saver
 
-_Last updated: June 9, 2026_
+_Last updated: June 12, 2026_
 
-Photo Storage Saver is designed so your photos and videos never leave your Mac.
+Photo Storage Saver is designed so your photos and videos never leave your
+device — on iPhone, iPad, or Mac.
 
 ## What we collect
 
