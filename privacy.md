@@ -23,6 +23,15 @@ SDKs.
   (AVFoundation) run **entirely on your device**.
 - The app makes **no network calls** with your photo data.
 
+## On-device intelligence
+
+Current and future "intelligence" features (such as AI-written scan
+summaries) run **entirely on your device** using Apple's on-device models
+(Apple Intelligence). Your photos and library statistics are never sent to
+us or to any third party. If a future optional feature ever used Apple's
+Private Cloud Compute, it would be clearly disclosed, off by default, and
+strictly opt-in — and this policy would be updated first.
+
 ## Purchases
 
 Subscriptions are processed by Apple via the App Store. We never see your
